@@ -1,0 +1,10 @@
+a = int(input())
+b = input()
+temp3 = a*int(b[2])
+print(temp3)
+temp4=a*int(b[1])
+print(temp4)
+temp5=a*int(b[0])
+print(temp5)
+temp6=temp3+temp4*10+temp5*100
+print(temp6)
