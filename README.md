@@ -1,11 +1,11 @@
 # Baekjoon-Python
 백준 단계별로 풀어보기 Python 코드 백업
-
+(Last update: 2023.09.25)
 
 https://www.acmicpc.net/step
 
 
-각 폴더 번호는 단계
+Step 폴더 내부의 폴더 번호는 단계
 (Ex) 01: 1단계
 
 각 파일명은 단계-문제번호
